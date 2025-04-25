@@ -1,5 +1,8 @@
 # 2308107010011_Tugas4_SDA_2025-
 
+Nama : Dian Nazira
+NPM  : 2308107010011
+
 Program ini dibuat untuk menguji dan membandingkan performa dari berbagai algoritma sorting (pengurutan data), baik untuk data berupa angka maupun kata. Dengan program ini, kita dapat melihat berapa lama waktu yang dibutuhkan masing-masing algoritma dalam menyelesaikan pengurutan data, serta seberapa besar penggunaan memori yang diperlukan.
 Program ini mendukung enam algoritma pengurutan, yaitu:
 - Bubble Sort
